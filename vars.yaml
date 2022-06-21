@@ -1,0 +1,8 @@
+vcenter_hostname: "vcenter7.homelab.lan"
+vcenter_datacenter: "DatacenterTKGM"
+vcenter_validate_certs: false
+vcenter_username: "Administrator@VSPHERE.LOCAL"
+vcenter_password: "LALA_99_lolo"
+vm_name_router: "router.homelab.lan"
+vm_name_jumpbox: "jumpbox.homelab.lan"
+vm_name_vcenter7: "vcenter7.homelab.lan" 
